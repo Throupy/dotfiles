@@ -1,4 +1,10 @@
-# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
+# Add Cargo bin to PATH
+export PATH="/home/owen/.cargo/bin:$PATH"
+
+# uk keyboard layout
+setxkbmap -layout gb
+
+# Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
 if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]; then
