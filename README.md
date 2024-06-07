@@ -10,6 +10,7 @@ I really need to test this out, but I think the following things are required:
 - fzf
 - JetBrainsMono Nerd Font
 - Stow
+- Tmux
 
 ## Usage
 ```
