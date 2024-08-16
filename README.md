@@ -2,6 +2,8 @@
 
 This directory contains my system dotfiles for my Debian (Kali) configuration
 
+Also contains some scripts which I seem to be needing on various machines and I hate having to keep writing!!
+
 ## Requirements
 
 I really need to test this out, but I think the following things are required:
